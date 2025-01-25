@@ -23,7 +23,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./dist"
+          path: "./dev"
           name: "build-artifact-development"
 
   deploy-job:
