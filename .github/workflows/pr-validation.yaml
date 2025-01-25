@@ -21,7 +21,7 @@ jobs:
           npx htmlhint "**/*.html"
           npx stylelint "**/*.css"
 
-  build-job:
+  validation-build-job:
     needs: linting-job
     name: Build Static Website
     runs-on: ubuntu-latest
