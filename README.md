@@ -29,7 +29,7 @@ The project uses GitHub Actions for CI/CD workflows to validate code quality and
 ## Access the Hosted Website
 The website is hosted on **GitHub Pages** and can be accessed at the following link:
 
-[Hosted Blogging Website](https://<MazharRehan>.github.io/Blogging-Website/)
+[Hosted Blogging Website](https://mazharrehan.github.io/Blogging-Website/)
 
 
 
